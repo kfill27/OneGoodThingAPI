@@ -1,0 +1,2 @@
+class WrittenThing < ApplicationRecord
+end
